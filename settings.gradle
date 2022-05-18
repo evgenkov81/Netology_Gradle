@@ -1,0 +1,5 @@
+rootProject.name = 'Netology_Gradle'
+include 'service'
+include 'db'
+include 'api'
+
